@@ -1,0 +1,20 @@
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\bin\Debug\Campbell_James.CPSC_2253.Final_Project.exe.config
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.Form1.resources
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.Properties.Resources.resources
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\bin\Debug\Campbell_James.CPSC_2253.Final_Project.exe
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\bin\Debug\Campbell_James.CPSC_2253.Final_Project.pdb
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.exe
+c:\users\james\documents\visual studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.pdb
+C:\Users\james\Documents\Visual Studio 2015\Projects\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\bin\Debug\NetComm.dll
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\bin\Debug\Campbell_James.CPSC_2253.Final_Project.exe.config
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.exe
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.pdb
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\bin\Debug\Campbell_James.CPSC_2253.Final_Project.exe
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\bin\Debug\Campbell_James.CPSC_2253.Final_Project.pdb
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\bin\Debug\NetComm.dll
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.csprojResolveAssemblyReference.cache
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.RobotGameClient.resources
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.Properties.Resources.resources
+C:\Users\james\Desktop\FINAL PROJECT\Campbell_James.CPSC_2253.Final_Project\Campbell_James.CPSC_2253.Final_Project\obj\Debug\Campbell_James.CPSC_2253.Final_Project.csproj.GenerateResource.Cache
